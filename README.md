@@ -1,4 +1,4 @@
-# Vertex Chat Permission
+# Vertex Chatbot
 
 This project is a chatbot application built using Streamlit and Vertex AI. It includes user authentication, chat functionality, and integration with a PostgreSQL database for user management.
 
@@ -23,7 +23,7 @@ This project is a chatbot application built using Streamlit and Vertex AI. It in
 
 ```bash
 git clone <repository-url>
-cd vertex-chat-permission
+cd vertex-chatbot
 ```
 
 ### 2. Set Up Environment Variables
